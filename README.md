@@ -1,5 +1,8 @@
 # devchallenges.io web sitesinde bulunan Responsive Web Developer alıştırması.
 
+Teknoloji: HTML5, CSS3
+<br />
+
 ![challengesDesigns_GalleryThumbnail](https://github.com/ndemir9/devchallenges.io-my-gallery/assets/73329877/a52d777e-7b41-4210-be05-97623981054a)
 
 Kaynak: https://devchallenges.io/challenges/gcbWLxG6wdennelX7b8I
